@@ -11,9 +11,18 @@ Electrical and computer engineer, security architect by trade. I like building o
 ![Azure](https://img.shields.io/badge/Azure-00B4D8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMy4wNSA0LjI0TDYuNTYgMTguMDVMMiAxOGw1LjA5LTguNzZ6bS43IDEuMDlMMjIgMTkuNzZINi43NGw5LjMtMS42NmwtNC44Ny01Ljc5eiIvPjwvc3ZnPg==&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-00B4D8?style=flat&logo=githubactions&logoColor=white)
 
-### What I focus on
+### Primary focus
+Application security, developer tooling, agent workflows, and cloud on Azure. I build adaptive, layered defenses that borrow from biomimetics and applied math, then turn them into repeatable engineering patterns people actually adopt.
 
-Application security, developer tooling, agent workflows, and cloud on Azure.
+### What I'm building
+🔐 Agent governance and secure-by-design patterns for enterprise AI workflows
+🛠️ Developer tooling and automation that makes the secure path the easy path
+☁️ Cloud security architecture on Azure, from identity to workload isolation
+
+### Off the clock
+🎹 Sound design and a synth collection that outgrew its shelf
+🚴 Cycling, rowing, and water sports, usually with data logging involved
+🧬 Curious about how resilient natural systems solve problems humans keep re-inventing
 
 ---
 
