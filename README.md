@@ -16,16 +16,12 @@ Application security, developer tooling, agent workflows, and cloud on Azure. I 
 
 ### What I'm building
 🔐 Agent governance and secure-by-design patterns for enterprise AI workflows
-
 🛠️ Developer tooling and automation that makes the secure path the easy path
-
 ☁️ Cloud security architecture on Azure, from identity to workload isolation
 
 ### Off the clock
 🎹 Sound design and a synth collection that outgrew its shelf
-
 🚴 Cycling, rowing, and water sports, usually with data logging involved
-
 🧬 Curious about how resilient natural systems solve problems humans keep re-inventing
 
 ---
