@@ -15,14 +15,14 @@ Electrical and computer engineer, security architect by trade. I like building o
 Application security, developer tooling, agent workflows, and cloud on Azure. I build adaptive, layered defenses that borrow from biomimetics and applied math, then turn them into repeatable engineering patterns people actually adopt.
 
 ### What I'm building
-🔐 Agent governance and secure-by-design patterns for enterprise AI workflows
-🛠️ Developer tooling and automation that makes the secure path the easy path
-☁️ Cloud security architecture on Azure, from identity to workload isolation
+🔐 Agent governance and secure-by-design patterns for enterprise AI workflows  
+🛠️ Developer tooling and automation that makes the secure path the easy path  
+☁️ Cloud security architecture on Azure, from identity to workload isolation  
 
 ### Off the clock
-🎹 Sound design and a synth collection that outgrew its shelf
-🚴 Cycling, rowing, and water sports, usually with data logging involved
-🧬 Curious about how resilient natural systems solve problems humans keep re-inventing
+🎹 Sound design and a synth collection that outgrew its shelf  
+🚴 Cycling, rowing, and water sports, usually with data logging involved  
+🧬 Curious about how resilient natural systems solve problems humans keep re-inventing  
 
 ---
 
