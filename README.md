@@ -4,9 +4,12 @@ Security-minded software builder in Chicago. I make developer tooling and spend 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-00B4D8?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00B4D8?style=flat&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-00B4D8?style=flat&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B4D8?style=flat&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-00B4D8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMS44MyA0Yy40OSAwIC44LjQuNjcuODlsLTMuMTYgMTQuMjJjLS4xMS40OS0uNTkuODktMS4wOC44OUgyLjE3Yy0uNDkgMC0uOC0uNC0uNjctLjg5TDQuNjYgNC44OUM0Ljc3IDQuNCA1LjI1IDQgNS43NCA0em0tNiAxMmgtNGMtLjQ2IDAtLjgzLjM4LS44My44NGMwIC40Ny4zNy44NS44My44NWg0Yy40NyAwIC44NS0uMzguODUtLjg1YzAtLjQ2LS4zOC0uODQtLjg1LS44NG0tMTAuMDUuMjhhLjg3Ljg3IDAgMCAwLS4yMSAxLjIyYy4yOC40Mi44NC41IDEuMjQuMjNjNy4zNS01LjE3IDcuNC01LjIzIDcuNDUtNS4yNmMuMTgtLjE2LjI3LS4zOC4yOC0uNmMuMDEtLjItLjA0LS4zNy0uMTYtLjU2TDkuNDYgNi4wM0EuODY3Ljg2NyAwIDAgMCA4LjIxIDZjLS4zNi4zMi0uMzguODgtLjA1IDEuMjRsNC4xNSA0LjQ0eiIvPjwvc3ZnPg==&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-00B4D8?style=flat&logo=svelte&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-00B4D8?style=flat&logo=rust&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-00B4D8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMy4wNSA0LjI0TDYuNTYgMTguMDVMMiAxOGw1LjA5LTguNzZ6bS43IDEuMDlMMjIgMTkuNzZINi43NGw5LjMtMS42NmwtNC44Ny01Ljc5eiIvPjwvc3ZnPg==&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-00B4D8?style=flat&logo=githubactions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-00B4D8?style=flat&logo=powershell&logoColor=white)
 
 ### What I focus on
 
@@ -30,11 +33,6 @@ Open to collaborating on security tooling and developer-workflow projects.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=garymike&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117">
   <img alt="Michael's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=garymike&show_icons=true&hide_border=true&title_color=0090b0&icon_color=00B4D8&text_color=3a3a3a&bg_color=ffffff">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=garymike&layout=compact&hide_border=true&title_color=00B4D8&text_color=c9d1d9&bg_color=0d1117">
-  <img alt="Michael's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garymike&layout=compact&hide_border=true&title_color=0090b0&text_color=3a3a3a&bg_color=ffffff">
 </picture>
 
 <picture>
