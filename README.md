@@ -34,8 +34,3 @@ Open to collaborating on security tooling and developer-workflow projects.
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=garymike&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117">
   <img alt="Michael's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=garymike&show_icons=true&hide_border=true&title_color=0090b0&icon_color=00B4D8&text_color=3a3a3a&bg_color=ffffff">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garymike/garymike/output/snake-dark.svg">
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/garymike/garymike/output/snake.svg">
-</picture>
