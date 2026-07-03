@@ -1,6 +1,6 @@
 # MG
 
-Electrical and computer engineer, security architect by trade. I like building on both sides of the line, software and hardware. Outside work I compose, play multiple instruments, record music, and I track my fitness and health data far more closely than strictly necessary.
+Electrical and computer engineer, security architect by trade. I like building on both sides of the line, software and hardware. Outside work I compose, play multiple instruments, and record music. I also track my fitness and health data far more closely than strictly necessary.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-00B4D8?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00B4D8?style=flat&logo=python&logoColor=white)
