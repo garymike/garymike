@@ -1,6 +1,6 @@
-# Michael
+# MG
 
-Security-minded software builder in Chicago. I make developer tooling and spend a lot of my time keeping the pipelines around it secure.
+Electrical and computer engineer, security architect by trade. I like building on both sides of the line, software and hardware. Outside work I write, play, and record music, and I track my fitness and health data far more closely than strictly necessary.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-00B4D8?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00B4D8?style=flat&logo=python&logoColor=white)
@@ -24,11 +24,7 @@ Application security, developer tooling, agent workflows, and cloud on Azure.
 - **[skills](https://github.com/garymike/skills)** &middot; my personal Claude Code agent skills
 - **[GT-CS6262-SwarmAzToolkit](https://github.com/garymike/GT-CS6262-SwarmAzToolkit)** &middot; Azure OpenAI setup toolkit I built for a grad security course
 
-Open to collaborating on security tooling and developer-workflow projects.
-
----
-
-### Stats
+Open to collaborating on security tooling, automation and AI projects, and audio tooling like VSTs and DAW plugins.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=garymike&show_icons=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117">
