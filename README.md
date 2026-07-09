@@ -9,6 +9,8 @@ Electrical and computer engineer, security architect by trade. I like building o
 ![Svelte](https://img.shields.io/badge/Svelte-0078D4?style=flat&logo=svelte&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0078D4?style=flat&logo=rust&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMy4wNSA0LjI0TDYuNTYgMTguMDVMMiAxOGw1LjA5LTguNzZ6bS43IDEuMDlMMjIgMTkuNzZINi43NGw5LjMtMS42NmwtNC44Ny01Ljc5eiIvPjwvc3ZnPg==&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNC41NTYgMTkuMTExSDExLjMzM2wzLjExMS03Ljc3OGg1LjEzNEwyMC42NjcgOUgxNmwtMS41NTYtMi4zMzNMMTYgNC4zMzNoNC42NjdMMTkuNTc4IDJoLTUuMTM0bC0zLjQyMiA0LjY2N0wxMi40MjIgOUwzLjA4OSAyMC42NjdBNS4zOCA1LjM4IDAgMCAwIDIgMjMuNzc4YTQuNyA0LjcgMCAwIDAgMy44ODkgNC42NjZTMjIuMjIyIDMwIDI0LjU1NiAzMGE1LjQ0NSA1LjQ0NSAwIDAgMCAwLTEwLjg4OW0tMTcuODg5IDdhMi4zMzQgMi4zMzQgMCAxIDEgMC00LjY2N2EyLjMzNCAyLjMzNCAwIDAgMSAwIDQuNjY3bTE3Ljg4OSAxLjU1NmEzLjExMiAzLjExMiAwIDEgMSAzLjExMS0zLjExMWEzLjEyIDMuMTIgMCAwIDEtMy4xMTEgMy4xMTEiLz48L3N2Zz4=&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0078D4?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0078D4?style=flat&logo=githubactions&logoColor=white)
 
 ### Primary focus
