@@ -30,8 +30,8 @@ Application security, developer tooling, agent workflows, and cloud on Azure. I 
 
 ### Public work
 
-- **[security-workflows](https://github.com/garymike/security-workflows)** &middot; reusable GitHub Actions security checks I drop into my repos
-- **[repo-template](https://github.com/garymike/repo-template)** &middot; a starter repo with those checks already wired in
+- **[security-agents](https://github.com/garymike/security-agents)** &middot; sandboxed agents that run dynamic security checks (MCP servers, agent skills) in isolated, egress-gated runtimes
+- **[security-workflows](https://github.com/garymike/security-workflows)** &middot; pinned, signed scanner toolbox images and reusable GitHub Actions workflows behind a hardened supply chain
 - **[skills](https://github.com/garymike/skills)** &middot; my personal Claude Code agent skills
 - **[GT-CS6262-SwarmAzToolkit](https://github.com/garymike/GT-CS6262-SwarmAzToolkit)** &middot; Azure OpenAI setup toolkit I built for a grad security course
 
